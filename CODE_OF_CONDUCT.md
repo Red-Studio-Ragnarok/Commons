@@ -1,4 +1,4 @@
-# Ragnarök Code of Conduct
+# Code of Conduct
 
 This project follows the latest Ragnarök Code of Conduct.
 
