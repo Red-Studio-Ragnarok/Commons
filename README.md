@@ -12,4 +12,4 @@ Ragnarök files are files that you should not copy paste in a repo, but rather l
 ## Files
 
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+- [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
